@@ -1,0 +1,1 @@
+select count(*) as customer_count from customers c ;
